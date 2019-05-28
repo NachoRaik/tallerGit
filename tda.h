@@ -2,6 +2,7 @@
 
 typedef struct tda {
   int dato;
+  int zaraza;
   int num;
   char* nombre;
 } tda_t;
