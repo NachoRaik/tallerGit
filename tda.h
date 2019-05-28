@@ -3,7 +3,7 @@
 typedef struct tda {
   int dato;
   int zaraza;
-  int numero_dni;
+  int pswd;
   char* nombre;
 } tda_t;
 
